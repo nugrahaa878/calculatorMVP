@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KalkulatorMVP</string>
+    <string name="input_1">Input 1</string>
+    <string name="input_2">Input 2</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="bagi">/</string>
+    <string name="kali">x</string>
+</resources>
